@@ -4,9 +4,9 @@
         <description><![CDATA[1one]]></description>
         <link>https://thegrid.ai/1one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Jun 2017 12:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2017 12:38:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1one/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jun 2017 12:37:49 GMT</pubDate>
+        <pubDate>Mon, 19 Jun 2017 12:38:04 GMT</pubDate>
         <item>
             <title><![CDATA[Twitter embed]]></title>
             <description><![CDATA[<h1>Twitter embed</h1>,<p>I should have added Twitter of course, so many ways to do it, but you don’t need to do anything clever. All the methods and code can easily be found on the <a href="https://dev.twitter.com/web/embedded-timelines" title="">Twitter Dev page</a>..</p>,<p>Heres a simple example just using the embed html action :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNzEsOwjAMRdGtWJ43niKUZAVswnJdGtSf4ocqdo8QDBhf3ZOVbNGIwjgb4H1AW31pmzPN3afCM3DEVeTXk-2rNB3duN4UHiCc7oiUsmilHNbbAdJ4bUbRrbDIsSimva_pHznbeP98j2CyWXs4Cj8xDReuWb5MfQMBzDjk" height="500"></iframe>,<p><strong>POWr Twitter feed</strong></p>,<p>I may have been wrong further below, with POWr I now have 3 feeds running on the site under their free plan, and their <a href="https://www.powr.io/plugins/twitter-feed/standalone?id=9782978&amp;" title="">twitter feed</a> is far the best so far..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJJqWkCXMU0MEYMWgKTYm_fVld_9b6pvsTMUIu3KGVrrctLK11c5K-vikBfpvKZk-Atk8UnvxM6I__SwQVMiCv4NNdq8VSCW-TDiAdRQIjB4qiVUldF936Yhtuo-0mfjwO6HbI_Krs" height="500"></iframe>]]></description>
@@ -43,9 +43,9 @@
             <pubDate>Thu, 27 Apr 2017 10:02:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p><strong>Snapwidget</strong></p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9j8FuwjAMhu97Cs_SjlkKaEJqm77EkDiHxNCgNKnsMMTbE-hhnDhZtr7fn91_KgW_yc774E9UQKnhoxfHYS4g7AyOpczSai2VuT6Zb5cnfZbXyVlw6PUSq_lwZDvR2zxNB_J6s91s1z8ILloRg_-MWgqCjTFfd2yTzJYpuZvBwhdCeCoOmT2xwQahynOMIZ0MplzbcotkcAHalBN1kP-Ij3VdOwbvKXVQJWVsV03z1cHjgeXu4Q7Q5F_k" height="800"></iframe>,<p><a href="https://snapwidget.com/" title="">Snapwidget</a> is a very popular way to add an Instagram gallery to your site. Similar to Instush they have a number of free galleries that you can easily set up, and they will then provide you with the embed code.</p>,<p>The problem with this app, is if you click on the photo, rather than going to an Instagram page, you are sent to a very badly designed page on snapwidget dot com. For the app to redirect you to your Instagram page, you must be using a Pro template, which ranges between $5 - 7$ per month! Thats almost the same yearly cost as thegrid.io. So whilst it is a great widget, the cost is too much for a personal ‘blog’…</p>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJx9j8FuwjAMhu97Cs_SjlkKaEJqm77EkDiHxNCgNKnsMMTbE-hhnDhZtr7fn91_KgW_yc774E9UQKnhoxfHYS4g7AyOpczSai2VuT6Zb5cnfZbXyVlw6PUSq_lwZDvR2zxNB_J6s91s1z8ILloRg_-MWgqCjTFfd2yTzJYpuZvBwhdCeCoOmT2xwQahynOMIZ0MplzbcotkcAHalBN1kP-Ij3VdOwbvKXVQJWVsV03z1cHjgeXu4Q7Q5F_k</link>
+            <title><![CDATA[Snapwidget]]></title>
+            <description><![CDATA[<h1>Snapwidget</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9j8FuwjAMhu97Cs_SjlkKaEJqm77EkDiHxNCgNKnsMMTbE-hhnDhZtr7fn91_KgW_yc774E9UQKnhoxfHYS4g7AyOpczSai2VuT6Zb5cnfZbXyVlw6PUSq_lwZDvR2zxNB_J6s91s1z8ILloRg_-MWgqCjTFfd2yTzJYpuZvBwhdCeCoOmT2xwQahynOMIZ0MplzbcotkcAHalBN1kP-Ij3VdOwbvKXVQJWVsV03z1cHjgeXu4Q7Q5F_k" height="800"></iframe>,<p><a href="https://snapwidget.com/" title="">Snapwidget</a> is a very popular way to add an Instagram gallery to your site. Similar to Instush they have a number of free galleries that you can easily set up, and they will then provide you with the embed code.</p>,<p>The problem with this app, is if you click on the photo, rather than going to an Instagram page, you are sent to a very badly designed page on snapwidget dot com. For the app to redirect you to your Instagram page, you must be using a Pro template, which ranges between $5 - 7$ per month! Thats almost the same yearly cost as thegrid.io. So whilst it is a great widget, the cost is too much for a personal ‘blog’…</p>]]></description>
+            <link>https://thegrid.ai/1one/snapwidget/index.html</link>
             <guid isPermaLink="false">6b2cdb7a-9b54-4546-a4f2-d911c7fe8fe2</guid>
             <pubDate>Thu, 27 Apr 2017 09:30:15 GMT</pubDate>
         </item>
