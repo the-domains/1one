@@ -4,9 +4,9 @@
         <description><![CDATA[1one]]></description>
         <link>https://thegrid.ai/1one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Jun 2017 12:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2017 12:37:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1one/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jun 2017 12:37:32 GMT</pubDate>
+        <pubDate>Mon, 19 Jun 2017 12:37:49 GMT</pubDate>
         <item>
             <title><![CDATA[Twitter embed]]></title>
             <description><![CDATA[<h1>Twitter embed</h1>,<p>I should have added Twitter of course, so many ways to do it, but you don’t need to do anything clever. All the methods and code can easily be found on the <a href="https://dev.twitter.com/web/embedded-timelines" title="">Twitter Dev page</a>..</p>,<p>Heres a simple example just using the embed html action :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNzEsOwjAMRdGtWJ43niKUZAVswnJdGtSf4ocqdo8QDBhf3ZOVbNGIwjgb4H1AW31pmzPN3afCM3DEVeTXk-2rNB3duN4UHiCc7oiUsmilHNbbAdJ4bUbRrbDIsSimva_pHznbeP98j2CyWXs4Cj8xDReuWb5MfQMBzDjk" height="500"></iframe>,<p><strong>POWr Twitter feed</strong></p>,<p>I may have been wrong further below, with POWr I now have 3 feeds running on the site under their free plan, and their <a href="https://www.powr.io/plugins/twitter-feed/standalone?id=9782978&amp;" title="">twitter feed</a> is far the best so far..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJJqWkCXMU0MEYMWgKTYm_fVld_9b6pvsTMUIu3KGVrrctLK11c5K-vikBfpvKZk-Atk8UnvxM6I__SwQVMiCv4NNdq8VSCW-TDiAdRQIjB4qiVUldF936Yhtuo-0mfjwO6HbI_Krs" height="500"></iframe>]]></description>
@@ -36,9 +36,9 @@
             <pubDate>Thu, 27 Apr 2017 10:36:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p><strong>Intush</strong></p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxFUctuwjAQ_JXIB99CwqPQQLe9QCsEqoool16QY28St8ZObQdIv74moHYteXfHr5nxgywsO2DkLAeSJI1D63pSO9-4qsfNIckR45IphbaNj4PkiRvlYEitOV2Skz8IitkSaW6sQAtpWGq0gIIph9TVjCOMqFPgbRM2lSEzHWCL2tPciiuu2e1ALfWtqjjgZDCajKnyHIbFZVBVcyi6oMVfdSG9lwKGWZqOw3TfITrIAskE9nigKSDuU_eHh8azssN8WyMcpEbqIesin_NX_iHexei7Wm5Oz9-ZiLP5frGZt6tmYOv-8Wcp4-Il3dd3Tm22k8_dbuvxTa3P2zKuFrt8nRWYrtLDgkTBOnP618xbIBfFJOp8v5lGUhI5bo1SUpdAtCFRFIgpBCKkqxVrp7ky_Gt2ksJX0_FwUJ9nFcqy8rfmetFUG40zc0RbhFenR-lkrnBGoseH5PrRj784_Kyp" height="800"></iframe>,<p><a href="http://www.instush.com/" title="">Instush</a> is an interesting site. Very simple to setup, you simply need to authorize the app with your Instagram account, and they have various free galleries that you can use. I’m not sure what is meant to happen if you click on a photo, as you can see it errors if you try.</p>,<p>It also seems to be cycling through the last 20 photos in your gallery, which is pretty cool.</p>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJxFUU1zwiAQ_SsZDtxi4kdro932ou04Op061ksvDoFNQosQgajpry9Gp11m2N23A7z3eJSFZXuMnOVAkqRxaF1PaucbV_W42Sc5YlwypdC28XGQPHOjHAypNadLcvIHAc_eMpobK9BCPw2zRgsomHJIXc04wog6Bd42SPMyZKYDbFF7mltxxTW7HailvlUVBxwPRuN7qjyHYXFZVNUcii5o8VddWO-kgGGWpvdhe-gQHXSBZAJ7PPAUEPep-8ND41nZYb6tEfZSI_WQdZHP-Bv_FB9idKgW69PLIRNxNtvN17N22Qxs3T_-LGRcvKa7-s6p9Wb8td1uPL6r1XlTxtV8m6-yAtNlup-TKHhnTv-aeQvkophEnfE310hKIsetUUrqEog2JIoCMYVAhHS1Yu0kV4Z_T09S-GqSDQf1eVqhLCt_a64XTbTRODVHtEV4dXKUTuYKpyR6ekyuP_30C9DYrPk</link>
+            <title><![CDATA[Intush]]></title>
+            <description><![CDATA[<h1>Intush</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxFUctuwjAQ_JXIB99CwqPQQLe9QCsEqoool16QY28St8ZObQdIv74moHYteXfHr5nxgywsO2DkLAeSJI1D63pSO9-4qsfNIckR45IphbaNj4PkiRvlYEitOV2Skz8IitkSaW6sQAtpWGq0gIIph9TVjCOMqFPgbRM2lSEzHWCL2tPciiuu2e1ALfWtqjjgZDCajKnyHIbFZVBVcyi6oMVfdSG9lwKGWZqOw3TfITrIAskE9nigKSDuU_eHh8azssN8WyMcpEbqIesin_NX_iHexei7Wm5Oz9-ZiLP5frGZt6tmYOv-8Wcp4-Il3dd3Tm22k8_dbuvxTa3P2zKuFrt8nRWYrtLDgkTBOnP618xbIBfFJOp8v5lGUhI5bo1SUpdAtCFRFIgpBCKkqxVrp7ky_Gt2ksJX0_FwUJ9nFcqy8rfmetFUG40zc0RbhFenR-lkrnBGoseH5PrRj784_Kyp" height="800"></iframe>,<p><a href="http://www.instush.com/" title="">Instush</a> is an interesting site. Very simple to setup, you simply need to authorize the app with your Instagram account, and they have various free galleries that you can use. I’m not sure what is meant to happen if you click on a photo, as you can see it errors if you try.</p>,<p>It also seems to be cycling through the last 20 photos in your gallery, which is pretty cool.</p>]]></description>
+            <link>https://thegrid.ai/1one/intush/index.html</link>
             <guid isPermaLink="false">09e64f15-a01c-4b26-9038-3b727a9848a9</guid>
             <pubDate>Thu, 27 Apr 2017 10:02:43 GMT</pubDate>
         </item>
