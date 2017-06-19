@@ -4,9 +4,9 @@
         <description><![CDATA[1one]]></description>
         <link>https://thegrid.ai/1one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Jun 2017 12:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2017 12:37:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1one/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jun 2017 12:36:59 GMT</pubDate>
+        <pubDate>Mon, 19 Jun 2017 12:37:18 GMT</pubDate>
         <item>
             <title><![CDATA[Twitter embed]]></title>
             <description><![CDATA[<h1>Twitter embed</h1>,<p>I should have added Twitter of course, so many ways to do it, but you don’t need to do anything clever. All the methods and code can easily be found on the <a href="https://dev.twitter.com/web/embedded-timelines" title="">Twitter Dev page</a>..</p>,<p>Heres a simple example just using the embed html action :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNzEsOwjAMRdGtWJ43niKUZAVswnJdGtSf4ocqdo8QDBhf3ZOVbNGIwjgb4H1AW31pmzPN3afCM3DEVeTXk-2rNB3duN4UHiCc7oiUsmilHNbbAdJ4bUbRrbDIsSimva_pHznbeP98j2CyWXs4Cj8xDReuWb5MfQMBzDjk" height="500"></iframe>,<p><strong>POWr Twitter feed</strong></p>,<p>I may have been wrong further below, with POWr I now have 3 feeds running on the site under their free plan, and their <a href="https://www.powr.io/plugins/twitter-feed/standalone?id=9782978&amp;" title="">twitter feed</a> is far the best so far..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJJqWkCXMU0MEYMWgKTYm_fVld_9b6pvsTMUIu3KGVrrctLK11c5K-vikBfpvKZk-Atk8UnvxM6I__SwQVMiCv4NNdq8VSCW-TDiAdRQIjB4qiVUldF936Yhtuo-0mfjwO6HbI_Krs" height="500"></iframe>]]></description>
@@ -22,9 +22,9 @@
             <pubDate>Sun, 14 May 2017 12:23:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p><strong>POWr Instagram Feed</strong></p>,<p>The POWr site allows you to have 2 feeds on their free plan, we’ve already used the Facebook feed above, so this time we’ll simply use their Instagram plugin to compare it to the other methods :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJTQtMEuIpBoIqhLWGI6O1t6-qv3lfkSswVqDiNnLfWury10sWNn30RQvjUUFabWP3moPFZl4RG8b80cAHl4xtcskQaD8XiStU-il3YHIJHiF7jPN2vth_GWy8mMUoh5XBcdmp-Gh4r0g" height="500"></iframe>,<p>This is by far the best utility we have tried so far. The free plan only gives you a 24 hour refresh rate, but very good rates if you upgrade..</p>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJTQtMEuIpBoIqhLWGI6O1t6-qv3lfkSswVqDiNnLfWury10sWNn30RQvjUUFabWP3moPFZl4RG8b80cAHl4xtcskQaD8XiStU-il3YHIJHiF7jPN2vth_GWy8mMUoh5XBcdmp-Gh4r0g</link>
+            <title><![CDATA[POWr Instagram Feed]]></title>
+            <description><![CDATA[<h1>POWr Instagram Feed</h1>,<p>The POWr site allows you to have 2 feeds on their free plan, we’ve already used the Facebook feed above, so this time we’ll simply use their Instagram plugin to compare it to the other methods :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJTQtMEuIpBoIqhLWGI6O1t6-qv3lfkSswVqDiNnLfWury10sWNn30RQvjUUFabWP3moPFZl4RG8b80cAHl4xtcskQaD8XiStU-il3YHIJHiF7jPN2vth_GWy8mMUoh5XBcdmp-Gh4r0g" height="500"></iframe>,<p>This is by far the best utility we have tried so far. The free plan only gives you a 24 hour refresh rate, but very good rates if you upgrade..</p>]]></description>
+            <link>https://thegrid.ai/1one/powr-instagram-feed/index.html</link>
             <guid isPermaLink="false">3390f02b-3396-483a-9d5d-917f244fdb3c</guid>
             <pubDate>Sun, 14 May 2017 12:35:10 GMT</pubDate>
         </item>
