@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Is it possible to use the api just to post the feeds from a page ?
-dateModified: '2017-06-19T12:36:58.009Z'
-datePublished: '2017-06-19T12:36:58.645Z'
+dateModified: '2017-06-19T12:40:54.124Z'
+datePublished: '2017-06-19T12:40:54.890Z'
 title: Facebook Page feed
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ maybe ...
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkDFuwzAMRa8iaJeVpR0K2UMvkKUXoCTaIiJbjsRERU9fpbATpFO7EODH_x-PNJ6uwkUopZejVStMKIUHBhUyjr0MzGt507rW2o3g0KZ06lya9TEzfXXvKU_NrLcMg209TDNGWvaiSp5DL18Oh70ZaQrcy9e7UmaIsengMTcOiGUPg4eVlUsLQ2vMexnny52TPDbD9XeyhFTVDXmliFtiMM_nfo52ju3oXFDRtKR8s9iY3Ol8SYzCEePffzAYEP_72vARUPxoYtOMhsHoB0JbGvI2vwFkEJYX" height="244" style=""></iframe>
 
-**POWr Facebook Feed**
+## POWr Facebook Feed
 
 Ok failing with the direct code from Facebook on a grid site at the moment, but just found this free utility the [POWr Facebook Feed][0]. Free for up to 2 feeds, very easy to set up, and you can customize the results too. (They all have other feed widgets for Instagram etc, which I'll try later...)
 
