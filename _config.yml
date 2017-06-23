@@ -64,3 +64,6 @@ content:
 description: 'social embeds in #thegrid'
 purpose: []
 github: true
+author:
+  name: Adrian Cutler
+  email: adrian@bbiab.com
