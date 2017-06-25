@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Is it possible to use the api just to post the feeds from a page ?
-dateModified: '2017-06-19T12:40:54.124Z'
-datePublished: '2017-06-19T12:40:54.890Z'
+dateModified: '2017-06-25T20:51:35.964Z'
+datePublished: '2017-06-25T20:51:36.433Z'
 title: Facebook Page feed
 author: []
 publisher: {}
