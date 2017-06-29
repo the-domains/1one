@@ -4,16 +4,9 @@
         <description><![CDATA[1one]]></description>
         <link>https://thegrid.ai/1one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Jun 2017 09:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2017 09:18:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1one/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jun 2017 09:00:23 GMT</pubDate>
-        <item>
-            <title><![CDATA[this could be interesting..]]></title>
-            <description><![CDATA[<h1>this could be interesting..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVVFvmzAQfs-v8DJN2aQF0qSpNJpk2tN-RnXAAbcYjOxLaDbtv88GkpGWtlEJD4k5n7-777s7szJ8kLgZeZEqGKhALf6MhH1KZYhJFYHQKIFpj_e1PSZTSjgEgiGUra2imLNA3H2blY_3o7-jkZeClKgPb2C15-aL-pyzJFIBBxITPsOZDwaiHFKsUVQJEbElcOM8T3RCqaKtszzFypDSjDsG1lAc0_CWRiCYOo0Qom0CEU73ZCgkWQfJKI6xaHLI7Vo2SbyEcUpu5t7-04XQKLnj2odVGYjl7JNbO4Knlxo0UToPmqVVCD9P7eZX4X6_OJ9pbqZv-XWVDzK1tz3Rp9_MW9z3uXZodrXulvMV1Bc8XwFlfOR6wxUg1WpXxNNISaUD8TG2T7R0xFtLlVGjYmL7fWroN1qc26awJcQxFak13JWPYjE_NrNG2yIRtj34FKiv-571zLOsV347eKuY9iKSYMx6fJrB8WZ0tnFUw9od1gpEpjFZTzLmMvD9qqo8rogZtZ3j3OcMU03xxM6oTpHXk4dQQrGduNMrylNhdLQedw6HIUFYHzUqIpC5f-OVRTo-xq_rVAfvZtXUpM3pfKuVbLy5MNxdX7iVbxFbxt0lWNWa9x6N-iQybVxkc2jCZqr0f6ofTN-dUxbrB2d6yLHYDVFtPkw118njza-dYQEi2RXbg5AkRUoJu_Q8701FLhSkp2cokqg03Ayhv7gG_TYRYUqErflwtSbo4wwxRkMI316FsMtCaMjt9_QCvu-n6-4EBrm1V_8uH0J7eQ3a9pISoTLGJlKhncxrET8OOxWGIbWynkrtDap17xX1rlpPjNgTVkIlwolQKS3jC9q8_vsHEnMJnA" height="500"></iframe>]]></description>
-            <link>https://thegrid.ai/1one/this-could-be-interesting/index.html</link>
-            <guid isPermaLink="false">cd02ad4c-20a9-4d4a-9f7c-3de113b408dc</guid>
-            <pubDate>Thu, 29 Jun 2017 09:00:09 GMT</pubDate>
-        </item>
+        <pubDate>Thu, 29 Jun 2017 09:18:38 GMT</pubDate>
         <item>
             <title><![CDATA[Twitter embed]]></title>
             <description><![CDATA[<h1>Twitter embed</h1>,<p>I should have added Twitter of course, so many ways to do it, but you don’t need to do anything clever. All the methods and code can easily be found on the <a href="https://dev.twitter.com/web/embedded-timelines" title="">Twitter Dev page</a>..</p>,<p>Heres a simple example just using the embed html action :</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNzEsOwjAMRdGtWJ43niKUZAVswnJdGtSf4ocqdo8QDBhf3ZOVbNGIwjgb4H1AW31pmzPN3afCM3DEVeTXk-2rNB3duN4UHiCc7oiUsmilHNbbAdJ4bUbRrbDIsSimva_pHznbeP98j2CyWXs4Cj8xDReuWb5MfQMBzDjk" height="500"></iframe>,<h2>POWr Twitter feed</h2>,<p>I may have been wrong further below, with POWr I now have 3 feeds running on the site under their free plan, and their <a href="https://www.powr.io/plugins/twitter-feed/standalone?id=9782978&amp;" title="">twitter feed</a> is far the best so far..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMnmJJqWkCXMU0MEYMWgKTYm_fVld_9b6pvsTMUIu3KGVrrctLK11c5K-vikBfpvKZk-Atk8UnvxM6I__SwQVMiCv4NNdq8VSCW-TDiAdRQIjB4qiVUldF936Yhtuo-0mfjwO6HbI_Krs" height="500"></iframe>]]></description>
@@ -55,6 +48,13 @@
             <link>https://thegrid.ai/1one/snapwidget/index.html</link>
             <guid isPermaLink="false">6b2cdb7a-9b54-4546-a4f2-d911c7fe8fe2</guid>
             <pubDate>Thu, 27 Apr 2017 09:30:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[this could be interesting..]]></title>
+            <description><![CDATA[<h1>this could be interesting..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVdtymzAQffdXqO503M7U4EuctsR2p0_9jIxAC2wRiJHWJm6n_14JsIsTEqfFPNhitTo65-xKrA0dJGxHXqQK4liAZr9GzD6lMkioioBpkJxwD3d1XKApJT8EjHgo21iFgtKA3X6ZlQ93o9-jkZdwKUEfLmC16xbLep2LxFJxCiTEdIazGAyEOU-gRlElj5CsgLnLPMkJpYoyF3mMlQImKXUCpHlxpOGtDANuahohj7KYRzDdo8EQZb1JikJA0eGw-BcS8ycsPg1mkduxbKx4DuPEbube_prOQ6PkjuocUmXAVrN3buxsPr3UoLHSedAMbZ3g_dROfmTu94PLmeZmeimvW_8gVXvbmX1VnHnLu77Ujsyu2d2megH1mcwXQAkeqJ5wBUi02hViGimpdMDeCvtEKye8jVQpNi7G9tRNDf4Ei3PTFLbkQmCR2MBt-cCWi-OR0mB7JIL2JDwG6mmZnqZ5Qnvtt-d_LXDPIsmN2YxPV8F4OzqbONph4w5rzVmqId5MUqIy8P2qqjyqkAi0vU5yn1JINIqJvSp0ArSZ3IeSF9nErV5jnjCjo824szgMkYf1UqMi5DL3515ZJOPj_nWh6s27rJqitJzOp1rPxtsL25HKDmrx2UswPt_MSl37FrAV3B1ya1rz3mNRn0Om3RbIHBqRqSr97-ob4VeXlAp970L3ORS7IaYthpnmOnm8_bEzxDiLd0V2YBIls96Qo-d5Fx15pSE9LYORBKX5fIj85TXkt0SYKYFn5s3VmqBPMxcQDRF8cxXBjgXTPLdf9Vfo_X-57kogLjN79e_yIbJX15Bt7ygWKmMskQrsybyW8ONhx8IQT6ytp1J7g2p9e7VaTwzbI1RMxcyZUCktxSvavP77AwKjMu8" height="500"></iframe>]]></description>
+            <link>https://thegrid.ai/1one/this-could-be-interesting/index.html</link>
+            <guid isPermaLink="false">cd02ad4c-20a9-4d4a-9f7c-3de113b408dc</guid>
+            <pubDate>Thu, 29 Jun 2017 09:00:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[image hover]]></title>
