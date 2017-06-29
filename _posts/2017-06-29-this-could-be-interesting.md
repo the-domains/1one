@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-29T09:00:08.553Z'
-datePublished: '2017-06-29T09:00:09.052Z'
+dateModified: '2017-06-29T09:00:19.605Z'
+datePublished: '2017-06-29T09:00:20.029Z'
 title: this could be interesting..
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-29-this-could-be-interesting.md
 starred: false
 datePublishedOriginal: '2017-06-29T09:00:09.052Z'
-sourcePath: _posts/2017-06-29-this-could-be-interesting.md
 url: this-could-be-interesting/index.html
 _type: Article
 
