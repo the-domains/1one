@@ -4,8 +4,8 @@ description: >-
   I should have added Twitter of course, so many ways to do it, but you don’t
   need to do anything clever. All the methods and code can easily be found on
   the Twitter Dev page..
-dateModified: '2017-06-29T12:06:29.099Z'
-datePublished: '2017-06-29T12:06:29.732Z'
+dateModified: '2017-06-29T14:59:32.222Z'
+datePublished: '2017-06-29T14:59:33.291Z'
 title: Twitter embed
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ Heres a simple example just using the embed html action :
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNzEsOwjAMRdGtWJ43niKUZAVswnJdGtSf4ocqdo8QDBhf3ZOVbNGIwjgb4H1AW31pmzPN3afCM3DEVeTXk-2rNB3duN4UHiCc7oiUsmilHNbbAdJ4bUbRrbDIsSimva_pHznbeP98j2CyWXs4Cj8xDReuWb5MfQMBzDjk" height="500" style=""></iframe>
 
-## POWr Twitter feed
+# POWr Twitter feed
 
 I may have been wrong further below, with POWr I now have 3 feeds running on the site under their free plan, and their [twitter feed][1] is far the best so far..
 
