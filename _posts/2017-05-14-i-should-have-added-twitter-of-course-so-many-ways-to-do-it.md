@@ -5,7 +5,7 @@ description: >-
   need to do anything clever. All the methods and code can easily be found on
   the Twitter Dev page..
 dateModified: '2017-06-30T13:32:25.894Z'
-datePublished: '2017-06-30T13:32:26.488Z'
+datePublished: '2017-06-30T13:32:26.745Z'
 title: Twitter embed
 author: []
 publisher: {}
