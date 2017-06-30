@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-30T13:29:12.959Z'
-datePublished: '2017-06-30T13:29:13.614Z'
+dateModified: '2017-06-30T13:29:24.122Z'
+datePublished: '2017-06-30T13:29:24.505Z'
 title: breaking bad ii
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-30-breaking-bad-ii.md
 starred: false
 datePublishedOriginal: '2017-06-30T13:29:13.614Z'
-sourcePath: _posts/2017-06-30-breaking-bad-ii.md
 url: breaking-bad-ii/index.html
 _type: Article
 
