@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: v o.i.i
-dateModified: '2017-06-29T16:42:47.376Z'
-datePublished: '2017-06-29T16:42:48.373Z'
+dateModified: '2017-06-30T13:29:24.122Z'
+datePublished: '2017-06-30T13:29:24.444Z'
 title: this could be interesting..
 author: []
 publisher: {}
