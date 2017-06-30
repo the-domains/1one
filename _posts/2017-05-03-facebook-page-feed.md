@@ -6,7 +6,7 @@ description: >-
   feeds, very easy to set up, and you can customize the results too. (They all
   have other feed widgets for Instagram etc, which I’ll try later…)
 dateModified: '2017-06-30T13:32:25.894Z'
-datePublished: '2017-06-30T13:32:26.738Z'
+datePublished: '2017-06-30T13:32:26.876Z'
 title: POWr Facebook Feed
 author: []
 publisher: {}
