@@ -5,7 +5,7 @@ description: >-
   used the Facebook feed above, so this time we’ll simply use their Instagram
   plugin to compare it to the other methods :
 dateModified: '2017-06-30T13:32:25.894Z'
-datePublished: '2017-06-30T13:32:26.702Z'
+datePublished: '2017-06-30T13:32:26.906Z'
 title: POWr Instagram Feed
 author: []
 publisher: {}
