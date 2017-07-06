@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: just a test
-dateModified: '2017-07-06T12:00:29.744Z'
-datePublished: '2017-07-06T12:00:30.572Z'
+dateModified: '2017-07-06T12:00:45.666Z'
+datePublished: '2017-07-06T12:00:46.407Z'
 title: ''
 author: []
 publisher: {}
