@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-07-14T12:52:43.340Z'
-datePublished: '2017-07-14T12:52:43.839Z'
+description: vo.i
+dateModified: '2017-07-14T12:52:51.024Z'
+datePublished: '2017-07-14T12:52:51.590Z'
 title: embedded window test
 author: []
 publisher: {}
@@ -18,3 +18,5 @@ _type: MediaObject
 # embedded window test
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNjssOwiAQRfd8xcR9HzZxIcX-Cy0jEBFImWqr8d8takyX575yRaLFYcdKPSL6og8zPIEBxJAs2eA5yD4FNxG2q_oorFc4c2gy9XK46DFMXnFwVhv6bGTnbhUZDvu6jnNmh2fiUDSHL1KIGzKYu5t0iHKwtHCoy2PLXkxUv5NC2RsMTqZ02v3_7roUrkjGeg1GxoheVGuuewNcO0UD" height="400" style=""></iframe>
+
+vo.i
