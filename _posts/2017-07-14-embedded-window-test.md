@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: vo.i
-dateModified: '2017-07-14T12:52:51.024Z'
-datePublished: '2017-07-14T12:52:51.590Z'
+dateModified: '2017-07-14T12:53:07.107Z'
+datePublished: '2017-07-14T12:53:07.479Z'
 title: embedded window test
 author: []
 publisher: {}
