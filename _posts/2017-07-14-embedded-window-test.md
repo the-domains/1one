@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: vo.i.2
-dateModified: '2017-07-14T15:06:52.370Z'
-datePublished: '2017-07-14T15:06:53.458Z'
+description: vo.i
+dateModified: '2017-07-14T15:13:35.111Z'
+datePublished: '2017-07-14T15:13:35.652Z'
 title: embedded window test
 author: []
 publisher: {}
@@ -17,6 +17,6 @@ _type: MediaObject
 ---
 # embedded window test
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVksFywiAQhu99CibXTsLYY4ek5x76DM5KNsnGDUTYWOPTF422F3UscICd___-hcFEG2gUJfOIZSZ4EN3DHpZqpmKwZdaJjPFda-trLPrdhGEurB_0ss3filWaA7mij1ll9OKtXswT6D7qAQQDAdMRb0GY3FZ1AZu_PhrvJBat9y0jjBTPzZD17qOBgXguvy7I189UjJkKyGUWZWaMHaJkCVvTXlmGGMusoQPWOVgh7_KNONX5QMeUAZwkZLe5-LTalJacKg0DV2-S5w17EHKtOh0YQospsL5Ik5iu4utNczq3VQ3oJqPpwtRw2Uz8a2Wq7mSdE-6jyUUMsrYdBDlFnOhGMz1BnpHZf6sawhZdvnqU0viQSuvd5AX_mdIGRPeIPU4bptj9E7vhCR9RQQRst26IbzRs9PL0RqffUf0AF24JKQ" height="400" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkstugzAQRff9CottBVa6rICuu-g3RIMZYMhgE3sIIV9fk0e7SaMGWNije88xiDwYT6MoWUYsEsGj6B4OcJkmKnhTJJ3IGN61Nq7GrN9P6JfMuEFflulbton3QDbrQ1Lm-tItX_In0PM8Z1VFUJ3BwRkCHnTrXKv7oAcQ9HFCJ7znYbI71XlsfnmNsxKytc8II4UzloyzHw0MxEvxdUW-fsZhSJRHLpIgC2PoECWJ2JoOyjCEUCQNHbFOwQg5m1ZiVec8naIDOEbI7FJx8WmjLTZVvHK4dWM8bdiBkG3VumHwLUZhfY3GMN3CtzdN6XysckA75ZquTA3XxcQ_VabyD9fZ8DeabEAvW9OBl1Wx0nPN9A_ygsxuVjX4Hdp088jSOB9H2_3kBJ-0tB7RPmKPU8UUuiexFU_4iAoiYLptQ3znwLm-fPpcx7-j_Aaq3xYF" height="400" style=""></iframe>
 
-vo.i.2
+vo.i
