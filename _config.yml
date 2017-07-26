@@ -62,7 +62,10 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'social embeds in #thegrid'
-purpose: []
+purpose:
+  - type: internal
+    label: 2nd page
+    item: 3df41e83-6120-4acd-9e85-aa7f161f0efc
 github: true
 author:
   name: Adrian Cutler
