@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-07-31T20:42:23.577Z'
-dateModified: '2017-07-31T20:42:22.390Z'
+datePublished: '2017-07-31T20:44:18.483Z'
+dateModified: '2017-07-31T20:44:17.574Z'
 description: vo.i.i
 via: {}
 sourcePath: _posts/2017-06-02-image-hover.md
