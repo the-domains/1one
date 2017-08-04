@@ -1,22 +1,29 @@
 ---
 publisher: {}
-dateModified: '2017-08-04T13:33:23.611Z'
+dateModified: '2017-08-04T14:48:54.417Z'
 via: {}
 description: >-
-  Discover & Share this Anime GIF with everyone you know. GIPHY is how you
-  search, share, discover, and create GIFs.
-title: Anime GIF - Find & Share on GIPHY
+  some text… just a normal story about nothing in particular.. the weather seems
+  nice outside today.. wonder what the weather is like in SoCal..
+title: A break in the story..
 inFeed: true
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXz01NyUw01EvPLMio1EvOz4UI6OfnegRERpWUOIY5OpbrQ2TTM9MA_awS9w
 author: []
-datePublished: '2017-08-04T13:33:24.430Z'
+datePublished: '2017-08-04T14:48:54.797Z'
 sourcePath: _posts/2017-08-04-anime-gif-find-and-share-on-giphy.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-08-04T13:32:53.158Z'
-_type: MediaObject
+url: anime-gif-find-and-share-on-giphy/index.html
+_type: Article
 
 ---
-<article style=""><h1>Anime GIF - Find &amp; Share on GIPHY</h1><p>Discover &amp; Share this Anime GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.</p><img src="http://media1.giphy.com/media/omHPYZttAVAAw/giphy.gif" /></article>
+# A break in the story..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXz01NyUw01EvPLMio1EvOz4UI6OfnegRERpWUOIY5OpbrQ2TTM9MA_awS9w" height="244" style=""></iframe>
+some text... just a normal story about nothing in particular.. the weather seems nice outside today.. wonder what the weather is like in SoCal..
+
+---
+
+bet it's still better than here... sigh...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/171cc591-1b22-43cf-ba61-825c715239c8.jpg)
+
+although that looks a bit cloudy.....
