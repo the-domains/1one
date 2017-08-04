@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   I may have been wrong further below, with POWr I now have 3 feeds running on
   the site under their free plan, and theirtwitter feedis far the best so far..
-dateModified: '2017-07-31T20:44:17.574Z'
-datePublished: '2017-07-31T20:44:18.460Z'
+dateModified: '2017-08-04T13:21:17.806Z'
+datePublished: '2017-08-04T13:21:18.611Z'
 title: POWr Twitter embed
 author: []
 publisher: {}
