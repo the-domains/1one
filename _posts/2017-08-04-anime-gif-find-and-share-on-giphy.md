@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-08-04T13:32:46.494Z'
+dateModified: '2017-08-04T13:33:23.611Z'
 via: {}
 description: >-
   Discover & Share this Anime GIF with everyone you know. GIPHY is how you
@@ -10,10 +10,10 @@ inFeed: true
 isBasedOnUrl: >-
   https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXz01NyUw01EvPLMio1EvOz4UI6OfnegRERpWUOIY5OpbrQ2TTM9MA_awS9w
 author: []
-datePublished: '2017-08-04T13:32:53.158Z'
+datePublished: '2017-08-04T13:33:24.430Z'
+sourcePath: _posts/2017-08-04-anime-gif-find-and-share-on-giphy.md
 starred: true
 datePublishedOriginal: '2017-08-04T13:32:53.158Z'
-sourcePath: _posts/2017-08-04-anime-gif-find-and-share-on-giphy.md
 _type: MediaObject
 
 ---
