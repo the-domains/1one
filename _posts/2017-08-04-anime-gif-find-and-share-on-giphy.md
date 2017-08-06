@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-08-04T14:48:54.417Z'
+dateModified: '2017-08-06T14:18:31.464Z'
 via: {}
 description: >-
   some text… just a normal story about nothing in particular.. the weather seems
@@ -8,7 +8,7 @@ description: >-
 title: A break in the story..
 inFeed: true
 author: []
-datePublished: '2017-08-04T14:48:54.797Z'
+datePublished: '2017-08-06T14:18:32.358Z'
 sourcePath: _posts/2017-08-04-anime-gif-find-and-share-on-giphy.md
 hasPage: true
 starred: true
