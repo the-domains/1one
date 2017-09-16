@@ -5,8 +5,8 @@ description: >-
   but just found this free utility the POWr Facebook Feed. Free for up to 2
   feeds, very easy to set up, and you can customize the results too. (They all
   have other feed widgets for Instagram etc, which I’ll try later…)
-dateModified: '2017-09-16T19:43:41.118Z'
-datePublished: '2017-09-16T19:43:44.075Z'
+dateModified: '2017-09-16T19:50:57.157Z'
+datePublished: '2017-09-16T19:50:58.107Z'
 title: POWr Facebook Feed
 author: []
 publisher: {}
