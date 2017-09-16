@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-16T16:58:05.742Z'
-datePublished: '2017-09-16T16:58:06.451Z'
+dateModified: '2017-09-16T17:12:31.559Z'
+datePublished: '2017-09-16T17:12:32.326Z'
 title: embedded window test
 author: []
 publisher: {}
