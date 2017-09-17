@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-17T15:07:09.094Z'
-datePublished: '2017-09-17T15:07:09.224Z'
+dateModified: '2017-09-17T15:08:38.480Z'
+datePublished: '2017-09-17T15:08:39.075Z'
 title: Just an article
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-09-17-just-an-article.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-17T15:04:50.402Z'
-_type: Blurb
+url: just-an-article/index.html
+_type: Article
 
 ---
 # Just an article
