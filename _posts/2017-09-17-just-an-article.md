@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: with a picture…
-dateModified: '2017-09-17T15:31:34.013Z'
-datePublished: '2017-09-17T15:31:34.239Z'
+dateModified: '2017-09-17T15:33:25.780Z'
+datePublished: '2017-09-17T15:33:25.954Z'
 title: Just an article
 author: []
 publisher: {}
