@@ -17,13 +17,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.skiingaroundtheworldbook.com/'
 title: Skiing Around the World ─ Jimmy Petterson ─ Best Ski Book on the Planet
-datePublished: '2017-09-23T10:22:52.758Z'
-dateModified: '2017-09-23T10:22:52.504Z'
+datePublished: '2017-09-23T10:23:11.238Z'
+dateModified: '2017-09-23T10:23:10.927Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-09-17-skiing-around-the-world-box-drawings-light-horizontal-jimmy-petterson-box-drawings-light-horizontal-best-ski-book-on.md
-datePublishedOriginal: '2017-09-23T10:22:52.758Z'
+datePublishedOriginal: '2017-09-23T10:23:11.238Z'
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
