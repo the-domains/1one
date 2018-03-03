@@ -4,8 +4,8 @@ description: >-
   The POWr site allows you to have 2 feeds on their free plan, we’ve already
   used the Facebook feed above, so this time we’ll simply use their Instagram
   plugin to compare it to the other methods :
-dateModified: '2017-12-25T12:35:33.775Z'
-datePublished: '2017-12-25T12:35:34.864Z'
+dateModified: '2018-03-03T09:38:40.193Z'
+datePublished: '2018-03-03T09:38:41.146Z'
 title: POWr Instagram Feed
 author: []
 publisher: {}
