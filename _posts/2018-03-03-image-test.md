@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: Image test..
-dateModified: '2018-03-07T14:03:20.757Z'
-datePublished: '2018-03-07T14:03:21.685Z'
+dateModified: '2018-03-07T15:28:11.038Z'
+datePublished: '2018-03-07T15:28:11.969Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-03-03-image-test.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-03-03T09:38:06.271Z'
+url: image-test/index.html
 _type: Blurb
 
 ---
