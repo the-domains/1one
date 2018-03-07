@@ -34,9 +34,6 @@ navigation:
   - name: SoCal.. SoFar..
     url: 'https://www.socalsofar.com'
     type: external
-  - name: gridtalk
-    url: 'http://gridtalk.info'
-    type: external
   - name: '{dzign}'
     url: 'https://thegrid.ai/dzign'
     type: external
