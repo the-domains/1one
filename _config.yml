@@ -1,4 +1,3 @@
-layout_spectrum: 0.2505964704876821
 typography_spectrum: 0.19480672663843057
 color:
   brandColors:
@@ -11,14 +10,21 @@ color:
   lightness: 0.8766481884799455
   saturation: 0.9434835509250474
   rhythmicContrast: 0.06136475605051042
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2505964704876821
 analytics:
   google: UA-100576145-1
   facebook: null
   twitter: null
+author:
+  name: Adrian Cutler
+  email: adrian@bbiab.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbead15-d214-4baa-a9a9-e8ce8b2572b5.png
 name: 1one
 cta:
   domain: null
@@ -34,6 +40,9 @@ navigation:
   - name: '{dzign}'
     url: 'https://thegrid.ai/dzign'
     type: external
+  - name: ImageTest
+    id: ecd0039e-919d-42be-bf5f-b27de3dbd412
+    type: content
 favicon: null
 title: 1one
 content:
@@ -63,9 +72,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'social embeds in #thegrid'
 purpose: []
-github: true
-author:
-  name: Adrian Cutler
-  email: adrian@bbiab.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbead15-d214-4baa-a9a9-e8ce8b2572b5.png
