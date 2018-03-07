@@ -4,8 +4,8 @@ description: >-
   I should have added Twitter of course, so many ways to do it, but you don’t
   need to do anything clever. All the methods and code can easily be found on
   the Twitter Dev page..
-dateModified: '2018-03-07T14:00:41.738Z'
-datePublished: '2018-03-07T14:00:43.628Z'
+dateModified: '2018-03-07T14:03:20.757Z'
+datePublished: '2018-03-07T14:03:21.731Z'
 title: Twitter embed
 author: []
 publisher: {}
