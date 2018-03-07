@@ -43,6 +43,9 @@ navigation:
   - name: ImageTest
     id: ecd0039e-919d-42be-bf5f-b27de3dbd412
     type: content
+  - name: Company
+    id: b0304e35-766f-4a79-a8d1-73bd3d2d5bac
+    type: content
 favicon: null
 title: 1one
 content:
