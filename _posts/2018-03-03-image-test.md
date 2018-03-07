@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Image test..
-dateModified: '2018-03-07T15:33:00.573Z'
-datePublished: '2018-03-07T15:33:01.284Z'
+dateModified: '2018-03-07T15:33:16.366Z'
+datePublished: '2018-03-07T15:33:16.990Z'
 title: ImageTest
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-03-03T09:38:06.271Z'
 url: image-test/index.html
-_type: Article
+_type: Blurb
 
 ---
 # ImageTest
