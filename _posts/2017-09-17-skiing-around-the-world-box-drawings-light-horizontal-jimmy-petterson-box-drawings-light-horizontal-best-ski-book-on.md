@@ -17,8 +17,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.skiingaroundtheworldbook.com/'
 title: Skiing Around the World ─ Jimmy Petterson ─ Best Ski Book on the Planet
-datePublished: '2018-10-05T23:30:47.215Z'
-dateModified: '2018-10-05T23:30:46.210Z'
+datePublished: '2019-01-22T14:06:23.883Z'
+dateModified: '2019-01-22T14:06:22.378Z'
 via: {}
 inFeed: true
 sourcePath: >-
